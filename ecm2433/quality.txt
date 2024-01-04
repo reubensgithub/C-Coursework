@@ -1,0 +1,15 @@
+Number of Shuffles = 1, Average Quality = 0.795918
+Number of Shuffles = 2, Average Quality = 0.693878
+Number of Shuffles = 3, Average Quality = 0.591837
+Number of Shuffles = 4, Average Quality = 0.612245
+Number of Shuffles = 5, Average Quality = 0.551021
+Number of Shuffles = 6, Average Quality = 0.612245
+Number of Shuffles = 7, Average Quality = 0.612245
+Number of Shuffles = 8, Average Quality = 0.612245
+Number of Shuffles = 9, Average Quality = 0.612245
+Number of Shuffles = 10, Average Quality = 0.571428
+Number of Shuffles = 11, Average Quality = 0.612245
+Number of Shuffles = 12, Average Quality = 0.551021
+Number of Shuffles = 13, Average Quality = 0.551021
+Number of Shuffles = 14, Average Quality = 0.469388
+Number of Shuffles = 15, Average Quality = 0.469388
