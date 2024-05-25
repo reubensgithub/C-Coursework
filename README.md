@@ -17,16 +17,16 @@ To run pig latin test (test\_pig.c), run the commands:
 
 
 ```bash
-gcc test\_pig.c pig.c -o test\_pig
-./test\_pig
+gcc test_pig.c pig.c -o test_pig
+./test_pig
 ```
   
 
-To run demo\_riffle (demo\_shuffle.c), run the commands:
+To run demo_riffle (demo_shuffle.c), run the commands:
 
 ```bash
-gcc demo\_shuffle.c riffle.c -o demo\_shuffle
-./demo\_shuffle
+gcc demo_shuffle.c riffle.c -o demo_shuffle
+./demo_shuffle
 ```
   
 
