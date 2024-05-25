@@ -3,7 +3,7 @@
 ## Description
 
   
-## How to Run
+## How to Run 
 To run pig latin (piglatin.c), run the commands:
 
 ```bash
@@ -37,11 +37,10 @@ gcc quality.c riffle.c -o quality
 ```
 
 (Output can be viewed in quality.txt)
-
   
 
 To run the beggar.c file, run the commands:
-
+```bash
 gcc beggar.c riffle.c -o beggar
-
 ./beggar
+```
