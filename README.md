@@ -5,6 +5,7 @@
   
 ## Getting Started
 The below instructions describe how to run the files in Linux.
+
 To compile the pig latin file (piglatin.c), run the command:
 
 ```bash
