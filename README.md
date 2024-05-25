@@ -5,6 +5,7 @@
 To run pig latin (piglatin.c), run the commands:
 
 ```gcc piglatin.c pig.c -o piglatin```
+
 ```./piglatin```
 
   
