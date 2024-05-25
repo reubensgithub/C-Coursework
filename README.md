@@ -1,7 +1,9 @@
-\*\* README \*\*
+#\*\* README \*\*
+
+## Description
 
   
-
+## How to Run
 To run pig latin (piglatin.c), run the commands:
 
 ```bash
