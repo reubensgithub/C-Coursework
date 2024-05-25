@@ -1,7 +1,7 @@
 # README
 
 ## Description
-
+This is the C coursework for the ECM2433 module, set by Prof. Richard Everson (Year 2, Semester 2). The coursework consists of multiple C files, where each C file (with the assistance of C Header files where necessary) has been created to answer the coursework questions.
   
 ## Getting Started
 The below instructions describe how to run the files in Linux.
