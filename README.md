@@ -36,7 +36,7 @@ gcc quality.c riffle.c -o quality
 ./quality
 ```
 
-(Output can be viewed in quality.txt)
+(Output of the quality.c file can be viewed in quality.txt)
   
 
 To run the beggar.c file, run the commands:
